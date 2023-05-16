@@ -7,3 +7,7 @@ Without any Javascript experience at the time, I followed a github script to con
 
 <br>
 
+<p align="center">
+  <img src="https://github.com/codebyvictor/NFT-Collection/blob/bcfaef5aeb60c2106b51bbc659d3af8298284c7d/Website-screenshot.png">
+</p>
+
